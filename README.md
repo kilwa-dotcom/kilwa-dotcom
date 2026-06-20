@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kilwa-dotcom&show_icons=true&commits_year=2026&theme=chartreuse-dark&rank_icon=github&disable_animations=False" width="50%"/>
 </a>
 
-<a href="https://github.com/tripleQ333/">
+<a href="https://github.com/kilwa-dotcom/">
   <img align="center" src="https://github-readme-stats-0xsonu.vercel.app/api/top-langs/?username=kilwa-dotcom&theme=chartreuse-dark&langs_count=5&count_private=true&layout=compact" width="50%"/>
 </a>
 
