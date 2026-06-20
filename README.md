@@ -32,3 +32,5 @@
 </picture>
 
 ###
+
+![Full Year Activity](./metrics.plugin.isocalendar.fullyear.svg)
